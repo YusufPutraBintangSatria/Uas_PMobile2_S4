@@ -51,7 +51,7 @@
 
 <h2 align="center">Contoh Hasil Run Aplikasi</h2>
 
-<p>
+<p align="center">
   <img src="ss/mobile.png" alt="Gambar Hasil">
 </p>
 
